@@ -1,0 +1,6 @@
+[submodule "JDY-08"]
+	path = JDY-08
+	url = https://github.com/kichMan/JDY-08.git
+[submodule "KiCad-RP-Pico"]
+	path = KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git

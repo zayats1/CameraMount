@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/bogdandev/Projects/KICAD schematics/CameraMount/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
-  (lib (name "jdy-08")(type "KiCad")(uri "/home/bogdandev/Projects/KICAD schematics/CameraMount/JDY-08/KiCAD/jdy-08.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/bogdandev/Projects/KiCAD/CameraMount/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options " pwr_sym_only")(descr ""))
+  (lib (name "jdy-08")(type "Legacy")(uri "/home/bogdandev/Projects/KiCAD/CameraMount/JDY-08/KiCAD/jdy-08.lib")(options " pwr_sym_only")(descr ""))
 )
